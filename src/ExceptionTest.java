@@ -5,6 +5,7 @@ public class ExceptionTest
     public static void main(String[] args) {
         System.out.println("hello git host-fix2");
         System.out.println("master  1");
+        System.out.println("master  2");
            int age = 190;
 //要求范围在 18 – 120 之间，否则抛出一个自定义异常
          if(age >= 20 && age <= 120) {
